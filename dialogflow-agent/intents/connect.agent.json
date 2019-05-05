@@ -1,0 +1,36 @@
+{
+  "id": "c42561c9-ec5f-46bc-aae4-71a32fb2390e",
+  "name": "connect.agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "connectagent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "상담사를 연결해 드릴까요?",
+            "상담사 연결해 드려요?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

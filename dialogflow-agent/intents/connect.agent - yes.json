@@ -1,0 +1,36 @@
+{
+  "id": "879ba6ee-9a10-41ac-9850-8c7a8faf19eb",
+  "parentId": "c42561c9-ec5f-46bc-aae4-71a32fb2390e",
+  "rootParentId": "c42561c9-ec5f-46bc-aae4-71a32fb2390e",
+  "name": "connect.agent - yes",
+  "auto": true,
+  "contexts": [
+    "connectagent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "connectagent.connectagent-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "상담사를 연결해 드려요~",
+            "상담사를 만나 보세요~"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119601,
+  "fallbackIntent": false,
+  "events": []
+}

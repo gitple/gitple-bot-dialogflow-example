@@ -1,0 +1,38 @@
+{
+  "id": "f3fe55d3-b7fd-4c3d-a2d4-7d8e8b285933",
+  "name": "ask.bitcoinprice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8fa7700b-c1cd-43f6-a2ea-81bd78f6a5f7",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "name": "currency",
+          "value": "$currency",
+          "prompts": [],
+          "defaultValue": "KRW",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

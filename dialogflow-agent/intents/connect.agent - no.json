@@ -1,0 +1,33 @@
+{
+  "id": "3fdfe5be-78d4-4c74-a5c7-584b3aded84e",
+  "parentId": "c42561c9-ec5f-46bc-aae4-71a32fb2390e",
+  "rootParentId": "c42561c9-ec5f-46bc-aae4-71a32fb2390e",
+  "name": "connect.agent - no",
+  "auto": true,
+  "contexts": [
+    "connectagent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "connectagent.connectagent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "그럼, 계속 진행하세요~"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119569,
+  "fallbackIntent": false,
+  "events": []
+}

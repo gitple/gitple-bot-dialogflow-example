@@ -1,0 +1,79 @@
+[
+  {
+    "id": "4e8b4e34-86a7-40c4-a8d5-67ccadef0da8",
+    "data": [
+      {
+        "text": "그만해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2077543-c397-45e5-aed0-e9bc68019a05",
+    "data": [
+      {
+        "text": "end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee2a67f0-e545-487e-b0e4-25f6cb7267f4",
+    "data": [
+      {
+        "text": "엔드",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c0506c6-26ec-4639-95f1-156c69cf6321",
+    "data": [
+      {
+        "text": "종료해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e89a594-f630-4d60-aa48-34786305a66a",
+    "data": [
+      {
+        "text": "종료",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c268b144-69d9-41fa-9dad-f3e92ff947e1",
+    "data": [
+      {
+        "text": "끝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d484ce17-63d9-4351-9309-2eda74b39ff5",
+    "data": [
+      {
+        "text": "끝내",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

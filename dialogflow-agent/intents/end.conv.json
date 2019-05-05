@@ -1,0 +1,31 @@
+{
+  "id": "62cab377-8bc6-4388-86e9-1faaee193c43",
+  "name": "end.conv",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "다음에 또 만나요~",
+            "안녕히~",
+            "바이~"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

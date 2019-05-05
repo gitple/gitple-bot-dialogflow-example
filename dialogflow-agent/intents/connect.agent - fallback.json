@@ -1,0 +1,33 @@
+{
+  "id": "fca88b78-0253-4690-99de-b1f617ea5d4b",
+  "parentId": "c42561c9-ec5f-46bc-aae4-71a32fb2390e",
+  "rootParentId": "c42561c9-ec5f-46bc-aae4-71a32fb2390e",
+  "name": "connect.agent - fallback",
+  "auto": false,
+  "contexts": [
+    "connectagent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "connectagent.connectagent-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "불편을 드려 죄송합니다. 다시 시도해 주세요"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119622,
+  "fallbackIntent": true,
+  "events": []
+}

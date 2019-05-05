@@ -1,0 +1,110 @@
+[
+  {
+    "id": "737a9427-3437-4957-ac71-39580eb9180c",
+    "data": [
+      {
+        "text": "아니",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1497445128
+  },
+  {
+    "id": "5b1c3911-f8b6-405a-b78d-edde56e69b61",
+    "data": [
+      {
+        "text": "고맙지만 됐어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497445128
+  },
+  {
+    "id": "3f03e4d4-5bb5-4124-b40b-87342ee6f64c",
+    "data": [
+      {
+        "text": "그건 아니지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497445128
+  },
+  {
+    "id": "fcf15deb-dc81-4899-adbf-a996a16219ac",
+    "data": [
+      {
+        "text": "절대 아니야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497445128
+  },
+  {
+    "id": "91f24552-7936-42df-b79a-03e1c49fde89",
+    "data": [
+      {
+        "text": "관심 없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1497445128
+  },
+  {
+    "id": "823c0cd1-8380-42de-947c-019968e28721",
+    "data": [
+      {
+        "text": "싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497445128
+  },
+  {
+    "id": "181f0d6e-72c8-4c70-85c1-0c17ca6c3c0d",
+    "data": [
+      {
+        "text": "아닌 것 같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497445128
+  },
+  {
+    "id": "04b24a21-5e44-4a11-ab42-e52f837e0767",
+    "data": [
+      {
+        "text": "하지 마",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497445128
+  },
+  {
+    "id": "a65e510d-4605-45f2-b6ae-979c805c112b",
+    "data": [
+      {
+        "text": "내 생각은 달라",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497445128
+  }
+]

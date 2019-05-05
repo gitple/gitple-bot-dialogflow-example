@@ -1,0 +1,122 @@
+[
+  {
+    "id": "617a66f7-183f-4de4-853b-a34d98664c68",
+    "data": [
+      {
+        "text": "그럼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497445130
+  },
+  {
+    "id": "638805e0-98b4-45ca-b0ec-0ed67f02e379",
+    "data": [
+      {
+        "text": "확인",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497445130
+  },
+  {
+    "id": "3a32efc9-8dd7-4f51-beee-36f5b403785a",
+    "data": [
+      {
+        "text": "좋아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497445130
+  },
+  {
+    "id": "60ccad17-9665-4357-a5e4-4dc4b1a990e4",
+    "data": [
+      {
+        "text": "물론",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497445130
+  },
+  {
+    "id": "77329098-88ee-4983-be7a-9243285c161c",
+    "data": [
+      {
+        "text": "해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497445130
+  },
+  {
+    "id": "2dbd29ec-d4dc-43a8-b317-fcf9e5fc4678",
+    "data": [
+      {
+        "text": "상관없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497445130
+  },
+  {
+    "id": "2e835e06-9e4e-461b-b7da-22741c4dc1e1",
+    "data": [
+      {
+        "text": "바로 그거야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497445130
+  },
+  {
+    "id": "ae7b58ca-c923-4d6c-b547-b3c996ff8f75",
+    "data": [
+      {
+        "text": "맞아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497445130
+  },
+  {
+    "id": "cf776d75-01ff-4976-826c-7b09ae8ef274",
+    "data": [
+      {
+        "text": "동의",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497445130
+  },
+  {
+    "id": "d2d5b595-9573-4feb-8c78-2d15f490fcf7",
+    "data": [
+      {
+        "text": "그래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497445130
+  }
+]

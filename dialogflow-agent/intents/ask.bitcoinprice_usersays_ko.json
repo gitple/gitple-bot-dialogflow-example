@@ -1,0 +1,86 @@
+[
+  {
+    "id": "eba8edb3-426a-4467-87bb-a1a21de43106",
+    "data": [
+      {
+        "text": "코인 ",
+        "userDefined": false
+      },
+      {
+        "text": "미국달러",
+        "alias": "currency",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      },
+      {
+        "text": "로 얼마야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4009b66-fdb7-41d1-bfa2-ca1a0f2140e2",
+    "data": [
+      {
+        "text": "비트코인",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 얼마야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c43488d3-01cc-4906-a6bb-10268b8bad42",
+    "data": [
+      {
+        "text": "코인 얼마야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef97d2ac-01e1-4a7c-83d3-3486787b8aa6",
+    "data": [
+      {
+        "text": "코인 가격?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e20bc45d-cdac-442a-9e69-cb1c16d79c2a",
+    "data": [
+      {
+        "text": "비트코인",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 가격",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 얼마야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

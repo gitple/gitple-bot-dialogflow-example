@@ -1,0 +1,41 @@
+{
+  "id": "5f35579c-6298-4370-ae5d-b720e9d4ba4d",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "ko",
+          "textToSpeech": "안녕하세요! 저는 깃플의 도움으로 탄생했습니다. 아직 서툴지만 서울 지역의 날씨를 알려 드릴수 있어요."
+        },
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "안녕하세요! 저는 다이어로그플로우 봇을 깃플에 연결하는 예제입니다.  [[상담사 연결]]",
+            "안녕하세요~ 다이어로그플로우로 만들어진 봇이예요.  [[그만]][[상담사 연결]]"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}
