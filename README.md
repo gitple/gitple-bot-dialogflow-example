@@ -1,3 +1,5 @@
+![ Dialogflow Console Screenshot](/images/dialogflow_console_screenshot.jpg)
+
 # DialogFlow example for Gitple
 
 ## How to execute
