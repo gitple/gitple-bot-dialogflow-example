@@ -103,7 +103,10 @@ Available functions are:
     - user: user info using this bot instance.
     - gitpleBot: the matching gitple Bot instace.
     
-## reference
+## References
+
+### Gitple bot Node.js Library
+https://github.com/gitple/gitple-bot-node
 
 ### Dialogflow: Node.js Client
 
@@ -111,4 +114,4 @@ https://github.com/googleapis/nodejs-dialogflow
 
 ### Dialogflow Fulfillment Library
 
-https://cloud.google.com/nodejs/docs/reference/dialogflow/0.8.x/v2.SessionsClient
+https://github.com/dialogflow/dialogflow-fulfillment-nodejs
