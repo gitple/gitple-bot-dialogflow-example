@@ -171,7 +171,7 @@ async function startChat(gpBot: any) { // jshint ignore:line
         console.log(`  No intent matched.`);
       }
       if (gpBot && result.fulfillmentText) {
-        gpBot.sendMessage(result.fulfillmentText);
+        gpBot.sendMessage(result.fulfillmentText, { c: { i: 'y' } });
       }
     })
     .catch((err) => {
@@ -216,7 +216,7 @@ function handleBotMessage(inputMessage: any) {
         console.log(`  No intent matched.`);
       }
       if (gpBot && result.fulfillmentText) {
-        gpBot.sendMessage(result.fulfillmentText);
+        gpBot.sendMessage(result.fulfillmentText, { c: { i: 'y' } });
       }
     })
     .catch((err) => {
