@@ -64,7 +64,7 @@ function webhookHandler(request: any, response: any) {
 
     let currency = agent.parameters.currency || 'KRW';
 
-    return rp({ url: 'https://blockchain.info/de/ticker', json: true })
+    return rp({ url: 'https://www.blockchain.com/ticker', json: true })
     .then((body: any) => {
       let result = body[currency] || body.KRW;
       agent.add(`비트코인 현재 가격은 ${result.symbol} ${result.last} 입니다`);
